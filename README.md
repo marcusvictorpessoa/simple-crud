@@ -1,2 +1,2 @@
 # simple-crud
-A simple CRUD.
+A simple CRUD with VUe.js and Laravel.
